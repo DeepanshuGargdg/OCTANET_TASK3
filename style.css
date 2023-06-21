@@ -182,3 +182,46 @@ size: 30px;
  .cp{
     margin: 4.5px 3px 0 5.5px;
  }
+@media(max-width:361px){
+ 
+    .play{
+        display: none;
+       
+    }
+    .i2{
+        margin: 0 0 0 -39px;
+    }
+    .play1{
+        display: none;
+      }
+    #searchInputBox{
+        
+     display: none;
+       
+    }
+    .span li h3 {
+      display: none;
+    }
+    .p,.p1,.im0,.im4{
+        display: none;
+    }
+    .span h1 {
+        width: 100px;
+        color: aliceblue;
+    }.img {
+    width: 50px;
+    height: 50px;
+    padding: 0px 0 0 5px;
+}
+    .i1{
+        margin: 19px 0 0 1021px;
+    }
+    .im1{
+        width: 103px;
+    }
+    .line:hover{
+        cursor: pointer;
+        text-decoration: none;
+    }
+    
+}
